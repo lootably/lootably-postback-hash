@@ -1,10 +1,6 @@
 # Lootably Postback Hash
 
-A TypeScript library for generating Lootably postback hashes.
-
-## Description
-
-This package provides a function to generate SHA256 postback hashes for Lootably postbacks.
+A TypeScript library for generating Lootably SHA256 postback hashes.
 
 ## Installation
 
